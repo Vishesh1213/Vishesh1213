@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Vishesh
 
-<!--
-**Vishesh1213/Vishesh1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student.
+🚀 Passionate about turning data into insights and ideas into projects.
+📊 Aspiring Data Analyst & Data Scientist
+💡 Enjoying solving problems with Python, uncovering patterns with SQL, and transforming raw data        into meaningful stories.
+🏏 Building IPL Analytics Dashboard
+🐍 Python | SQL | Pandas | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+🛠️ Skills & Tools
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Power BI
+- Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+🏏 IPL Analytics Dashboard
+
+📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/raizadavishesh/
+- Email: raizadavish9027@gmail.com
